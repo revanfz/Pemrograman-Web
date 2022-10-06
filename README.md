@@ -1,4 +1,5 @@
 # Repo Tugas Pemrograman-Web
+* task_2 : Tugas 2 : Mendesain Query String
 
 ## Authors
 
