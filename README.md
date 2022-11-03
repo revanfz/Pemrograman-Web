@@ -1,5 +1,6 @@
 # Repo Tugas Pemrograman-Web
 * task_2 : Tugas 2 : Mendesain Query String
+* task_3 : Tugas 3 : Memanipulasi DOM Suatu Website
 
 ## Authors
 
